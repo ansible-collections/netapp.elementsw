@@ -19,6 +19,10 @@ Join our Slack Channel at [Netapp.io](http://netapp.io/slack)
 
 # Release Notes
 
+## 21.6.1
+### Bug Fixes
+  - requirements.txt: point to the correct python dependency 
+
 ## 21.3.0
 
 ### New Options

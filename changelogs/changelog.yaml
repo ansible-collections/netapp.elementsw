@@ -205,3 +205,10 @@ releases:
     - DEVOPS-3733.yaml
     - DEVOPS-3734.yaml
     release_date: '2021-03-03'
+  21.6.1:
+    changes:
+      bugfixes:
+      - requirements.txt - point to the correct python dependency
+    fragments:
+    - DEVOPS-3800.yaml
+    release_date: '2021-05-18'

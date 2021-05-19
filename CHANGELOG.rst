@@ -5,6 +5,14 @@ NetApp ElementSW Collection Release Notes
 .. contents:: Topics
 
 
+v21.6.1
+=======
+
+Bugfixes
+--------
+
+- requirements.txt - point to the correct python dependency
+
 v21.3.0
 =======
 
