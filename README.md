@@ -19,6 +19,10 @@ To use Collection add the following to the top of your playbook, with out this y
 collections:
   - netapp.elementsw
 ```
+
+# Module documentation
+https://docs.ansible.com/ansible/devel/collections/netapp/elementsw/
+
 # Need help
 Join our Slack Channel at [Netapp.io](http://netapp.io/slack)
 
