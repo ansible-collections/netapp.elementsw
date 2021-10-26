@@ -28,6 +28,11 @@ Join our Slack Channel at [Netapp.io](http://netapp.io/slack)
 
 # Release Notes
 
+## 21.7.0
+
+### Minor changes
+  - all modules - enable usage of Ansible module group defaults - for Ansible 2.12+.
+
 ## 21.6.1
 ### Bug Fixes
   - requirements.txt: point to the correct python dependency 
