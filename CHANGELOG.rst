@@ -5,6 +5,14 @@ NetApp ElementSW Collection Release Notes
 .. contents:: Topics
 
 
+v21.7.0
+=======
+
+Minor Changes
+-------------
+
+- PR1 - allow usage of Ansible module group defaults - for Ansible 2.12+.
+
 v21.6.1
 =======
 
