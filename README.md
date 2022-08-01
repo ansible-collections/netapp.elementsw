@@ -1,6 +1,7 @@
 [![Documentation](https://img.shields.io/badge/docs-brightgreen.svg)](https://docs.ansible.com/ansible/devel/collections/netapp/elementsw/index.html)
 ![example workflow](https://github.com/ansible-collections/netapp.elementsw/actions/workflows/main.yml/badge.svg)
 [![codecov](https://codecov.io/gh/ansible-collections/netapp.elementsw/branch/main/graph/badge.svg?token=weBYkksxSi)](https://codecov.io/gh/ansible-collections/netapp.elementsw)
+[![Discord](https://img.shields.io/discord/855068651522490400)](https://discord.gg/NetApp)
 
 
 netapp.elementSW
@@ -24,7 +25,7 @@ collections:
 https://docs.ansible.com/ansible/devel/collections/netapp/elementsw/
 
 # Need help
-Join our Slack Channel at [Netapp.io](http://netapp.io/slack)
+Join our [Discord](https://discord.gg/NetApp) and look for our #ansible channel.
 
 # Release Notes
 
