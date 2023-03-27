@@ -4,6 +4,13 @@ NetApp ElementSW Collection Release Notes
 
 .. contents:: Topics
 
+v21.7.1
+=======
+
+Minor Changes
+-------------
+
+- na_elementsw_info - add ``cluster_initiators``.
 
 v21.7.0
 =======

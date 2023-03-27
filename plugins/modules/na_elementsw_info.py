@@ -33,7 +33,7 @@ options:
     description:
       - list of subsets to gather from target cluster or node
       - supported values
-      - node_config, cluster_accounts, cluster_nodes, cluster_drives.
+      - node_config, cluster_accounts, cluster_nodes, cluster_drives, cluster_initiators.
       - additional values
       - all - for all subsets,
       - all_clusters - all subsets at cluster scope,
@@ -166,7 +166,8 @@ class ElementSWInfo(object):
         self.cluster_methods = dict(
             cluster_accounts=self.sfe_cluster.list_accounts,
             cluster_drives=self.sfe_cluster.list_drives,
-            cluster_nodes=self.sfe_cluster.list_all_nodes
+            cluster_nodes=self.sfe_cluster.list_all_nodes,
+            cluster_initiators=self.sfe_cluster.list_initiators
         )
         self.methods = dict(self.node_methods)
         self.methods.update(self.cluster_methods)
